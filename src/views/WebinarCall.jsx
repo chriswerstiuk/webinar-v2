@@ -40,7 +40,7 @@ const CALL_OPTIONS = {
 /**
  * Use for local testing
  */
-const API_URL = "https://api.daily.co/v1/";
+//const API_URL = "https://api.daily.co/v1/";
 
 /**
  * Uncomment and use if deployed to Netlify (see README for instructions)
