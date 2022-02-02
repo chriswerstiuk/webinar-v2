@@ -45,7 +45,7 @@ const API_URL = "https://api.daily.co/v1/";
 /**
  * Uncomment and use if deployed to Netlify (see README for instructions)
  */
-// const API_URL = `${process.env.REACT_APP_API_URL}/api`;
+ const API_URL = `${process.env.REACT_APP_API_URL}/api`;
 
 const WebinarCall = () => {
   const videoRef = useRef(null);
